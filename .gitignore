@@ -1,0 +1,10 @@
+# Ignorar arquivos de dados (datasets)
+*.csv
+*.xlsx
+
+# Ignorar pastas de checkpoints do Jupyter (lixo temporário)
+.ipynb_checkpoints/
+__pycache__/
+
+# Ignorar arquivos de sistema
+.DS_Store
